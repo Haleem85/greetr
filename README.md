@@ -1,0 +1,2 @@
+# greetr
+Greeter Laravel Package
